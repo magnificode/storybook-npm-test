@@ -4,6 +4,13 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
+import * as styles from './shared/styles';
+import * as global from './shared/global';
+
+export { styles, global };
+
+export * from './components';
+
 ReactDOM.render(
   <React.StrictMode>
     <App />
