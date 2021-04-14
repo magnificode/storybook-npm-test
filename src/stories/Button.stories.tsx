@@ -15,8 +15,8 @@ export default {
 		variant: {
 			description: 'Button Type',
 			control: 'radio',
-			defaultValue: 'primary',
-			options: ['primary', 'secondary', 'tertiary']
+			defaultValue: 'Primary',
+			options: ['Primary', 'Secondary', 'Tertiary']
 		},
 		size: {
 			description: 'Button Size',
@@ -35,12 +35,12 @@ Primary.args = {
 
 export const Secondary = Template.bind({});
 Secondary.args = {
-	variant: 'secondary'
+	variant: 'Secondary'
 };
 
 export const Tertiary = Template.bind({});
 Tertiary.args = {
-	variant: 'tertiary'
+	variant: 'Tertiary'
 };
 
 export const Large = Template.bind({});
