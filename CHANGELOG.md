@@ -1,3 +1,18 @@
+# v0.1.5 (Thu Apr 15 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Update version. ([@magnificode](https://github.com/magnificode))
+- Redefine tsconfig, reorganize package. ([@magnificode](https://github.com/magnificode))
+- Remove shared. ([@magnificode](https://github.com/magnificode))
+- Ensure primry is the default variant. ([@magnificode](https://github.com/magnificode))
+
+#### Authors: 1
+
+- Dominic Magnifico ([@magnificode](https://github.com/magnificode))
+
+---
+
 # v0.1.4 (Thu Apr 15 2021)
 
 #### ⚠️ Pushed to `main`
