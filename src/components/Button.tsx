@@ -16,7 +16,7 @@ export interface ButtonProps {
 	onClick?: () => void;
 }
 
-export const StyledButton = styled.button<ButtonProps>`
+export const StyledButton = styled.button`
 	font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 	font-weight: 700;
 	border: 0;
@@ -57,7 +57,7 @@ export const StyledButton = styled.button<ButtonProps>`
  */
 export const Button: React.FC<ButtonProps> = ({
 	children,
-	variant,
+	variant = 'primary',
 	size = 'medium',
 	...props
 }) => {
