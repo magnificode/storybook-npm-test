@@ -1,3 +1,15 @@
+# v0.1.2 (Wed Apr 14 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Add main entry point. ([@magnificode](https://github.com/magnificode))
+
+#### Authors: 1
+
+- Dominic Magnifico ([@magnificode](https://github.com/magnificode))
+
+---
+
 # v0.1.1 (Wed Apr 14 2021)
 
 #### ⚠️ Pushed to `main`
