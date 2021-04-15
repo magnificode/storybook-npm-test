@@ -1,3 +1,20 @@
+# v0.1.3 (Thu Apr 15 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of github.com:magnificode/storybook-npm-test into main ([@magnificode](https://github.com/magnificode))
+- Update yarn lock. ([@magnificode](https://github.com/magnificode))
+- Move Button story. ([@magnificode](https://github.com/magnificode))
+- Add more exclude rules, change outdir. ([@magnificode](https://github.com/magnificode))
+- Add files, adjust build script to target TS files, adds babel plugins. ([@magnificode](https://github.com/magnificode))
+- Add babel config. ([@magnificode](https://github.com/magnificode))
+
+#### Authors: 1
+
+- Dominic Magnifico ([@magnificode](https://github.com/magnificode))
+
+---
+
 # v0.1.2 (Wed Apr 14 2021)
 
 #### ⚠️ Pushed to `main`
