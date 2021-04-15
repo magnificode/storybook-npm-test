@@ -16,6 +16,7 @@
   "files": [
     "dist"
   ],
+  "type": "module",
   "dependencies": {
     "@storybook/addon-a11y": "^6.2.8",
     "@storybook/addon-storysource": "^6.2.8",
@@ -50,7 +51,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "cross-env BABEL_ENV=production babel src -d dist --extensions \".js,.jsx,.ts,.tsx\"",
+    "build": "cross-env BABEL_ENV=production babel src -d dist --extensions \".js,.jsx,.ts,.tsx\" --ignore \"**/*.test.js\" --ignore \"**/*.stories.tsx\"",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "storybook": "start-storybook -p 6006 -s public",
