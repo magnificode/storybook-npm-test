@@ -1,3 +1,16 @@
+# v0.1.9 (Thu Apr 15 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of github.com:magnificode/storybook-npm-test into main ([@magnificode](https://github.com/magnificode))
+- Use commonjs as the type. ([@magnificode](https://github.com/magnificode))
+
+#### Authors: 1
+
+- Dominic Magnifico ([@magnificode](https://github.com/magnificode))
+
+---
+
 # v0.1.8 (Thu Apr 15 2021)
 
 #### ⚠️ Pushed to `main`
