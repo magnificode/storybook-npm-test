@@ -1,3 +1,18 @@
+# v0.1.4 (Thu Apr 15 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of github.com:magnificode/storybook-npm-test into main ([@magnificode](https://github.com/magnificode))
+- Add styled component styles. ([@magnificode](https://github.com/magnificode))
+- Remove css file. ([@magnificode](https://github.com/magnificode))
+- Add proper styled components types. ([@magnificode](https://github.com/magnificode))
+
+#### Authors: 1
+
+- Dominic Magnifico ([@magnificode](https://github.com/magnificode))
+
+---
+
 # v0.1.3 (Thu Apr 15 2021)
 
 #### ⚠️ Pushed to `main`
