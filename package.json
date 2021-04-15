@@ -25,12 +25,24 @@
     "@types/react": "^17.0.3",
     "@types/react-dom": "^17.0.3",
     "@types/styled-components": "^5.1.9",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
     "styled-components": "^5.2.3",
     "typescript": "^4.2.3",
     "web-vitals": "^1.0.1"
+  },
+  "peerDependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "engines": {
+    "node": ">=10",
+    "npm": ">=5"
+  },
+  "auto": {
+    "plugins": [
+      "npm",
+      "released"
+    ]
   },
   "scripts": {
     "start": "react-scripts start",
@@ -74,10 +86,16 @@
     "@storybook/node-logger": "^6.2.5",
     "@storybook/preset-create-react-app": "^3.1.7",
     "@storybook/react": "^6.2.5",
+    "@types/fs-extra": "^9.0.11",
     "auto": "^10.25.0",
+    "babel-eslint": "^10.1.0",
+    "babel-loader": "^8.2.2",
+    "babel-plugin-styled-components": "^1.12.0",
     "cross-env": "^7.0.3",
+    "node-fetch": "^2.6.1",
     "prettier": "^2.2.1",
-    "storybook-addon-jsx": "^7.3.7"
+    "storybook-addon-jsx": "^7.3.7",
+    "ts-loader": "^8.1.0"
   },
   "babel": {
     "presets": [
