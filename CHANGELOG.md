@@ -1,3 +1,17 @@
+# v0.1.12 (Mon Apr 19 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Add dotenv back in. ([@magnificode](https://github.com/magnificode))
+- Convert px to rem. ([@magnificode](https://github.com/magnificode))
+- Remove unused packages. ([@magnificode](https://github.com/magnificode))
+
+#### Authors: 1
+
+- Dominic Magnifico ([@magnificode](https://github.com/magnificode))
+
+---
+
 # v0.1.11 (Thu Apr 15 2021)
 
 #### ⚠️ Pushed to `main`
