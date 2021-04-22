@@ -1,3 +1,16 @@
+# v0.1.14 (Thu Apr 22 2021)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of github.com:magnificode/storybook-npm-test into main ([@magnificode](https://github.com/magnificode))
+- Upgrade node version. ([@magnificode](https://github.com/magnificode))
+
+#### Authors: 1
+
+- Dominic Magnifico ([@magnificode](https://github.com/magnificode))
+
+---
+
 # v0.1.13 (Thu Apr 22 2021)
 
 #### ⚠️ Pushed to `main`
