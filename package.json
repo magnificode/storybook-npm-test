@@ -1,6 +1,17 @@
 {
-  "name": "meta_storybook_clean",
-  "version": "0.1.0",
+  "name": "@houseofgiants/sbds-test",
+  "version": "0.1.12",
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "homepage": "https://github.com/house-of-giants/storybook-npm-test#readme",
+  "bugs": {
+    "url": "https://github.com/house-of-giants/storybook-npm-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/house-of-giants/storybook-npm-test.git"
+  },
+  "license": "ISC",
+  "author": "Dominic Magnifico",
   "main": "dist/index.js",
   "files": [
     "dist"
@@ -83,5 +94,11 @@
   "peerDependencies": {
     "react": "^16.0.0 || ^17.0.0",
     "react-dom": "^16.0.0 || ^17.0.0"
+  },
+  "auto": {
+    "plugins": [
+      "npm",
+      "released"
+    ]
   }
 }
